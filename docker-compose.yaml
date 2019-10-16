@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  nodejs:
+    build: .
+    volumes: 
+      - .:/home/app/test_chart/
+      - ./entrypoint-compose.sh:/entrypoint-compose.sh
+      - /home/app/test_chart/node_modules/
+    ports:
+      - "3020:3000"
+    entrypoint: "/entrypoint-compose.sh"
+    environment:
+      - NODE_ENV=development
+      - CHOKIDAR_USEPOLLING=true
