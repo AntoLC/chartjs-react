@@ -5,7 +5,8 @@ ENV PATH_APP /home/app/
 WORKDIR $PATH_APP
 
 #RUN if [ ! -e $PATH_APP$NAME_APP/package.json ]; then npx create-react-app $NAME_APP ; fi
-RUN npm install -g git-all
+RUN apk add git
+RUN apk add openssh
 
 ENV NAME_APP test_chart
 RUN npx create-react-app $NAME_APP

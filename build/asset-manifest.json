@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/chartjs-react/static/css/main.3aaf1634.chunk.css",
+    "main.js": "/chartjs-react/static/js/main.d5bff7c0.chunk.js",
+    "main.js.map": "/chartjs-react/static/js/main.d5bff7c0.chunk.js.map",
+    "runtime-main.js": "/chartjs-react/static/js/runtime-main.bf0c4e05.js",
+    "runtime-main.js.map": "/chartjs-react/static/js/runtime-main.bf0c4e05.js.map",
+    "static/js/2.a3174806.chunk.js": "/chartjs-react/static/js/2.a3174806.chunk.js",
+    "static/js/2.a3174806.chunk.js.map": "/chartjs-react/static/js/2.a3174806.chunk.js.map",
+    "index.html": "/chartjs-react/index.html",
+    "precache-manifest.13e651cd2566493b81bcbb434a84626f.js": "/chartjs-react/precache-manifest.13e651cd2566493b81bcbb434a84626f.js",
+    "service-worker.js": "/chartjs-react/service-worker.js",
+    "static/css/main.3aaf1634.chunk.css.map": "/chartjs-react/static/css/main.3aaf1634.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf0c4e05.js",
+    "static/js/2.a3174806.chunk.js",
+    "static/css/main.3aaf1634.chunk.css",
+    "static/js/main.d5bff7c0.chunk.js"
+  ]
+}
