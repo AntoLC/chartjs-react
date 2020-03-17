@@ -84,7 +84,7 @@ function App() {
 
 	return (
 		<div className="App">
-			<p>Hello World</p>
+			<p>Hello Woworld</p>
 			<div className="container-chart">
 				<Doughnut data={data_camembert} options={{
 					responsive: true,
