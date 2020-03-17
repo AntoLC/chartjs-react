@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chartjs-react/build/static/css/main.3aaf1634.chunk.css",
+    "main.js": "/chartjs-react/build/static/js/main.c3caccb9.chunk.js",
+    "main.js.map": "/chartjs-react/build/static/js/main.c3caccb9.chunk.js.map",
+    "runtime-main.js": "/chartjs-react/build/static/js/runtime-main.28eea1fe.js",
+    "runtime-main.js.map": "/chartjs-react/build/static/js/runtime-main.28eea1fe.js.map",
+    "static/js/2.78b38183.chunk.js": "/chartjs-react/build/static/js/2.78b38183.chunk.js",
+    "static/js/2.78b38183.chunk.js.map": "/chartjs-react/build/static/js/2.78b38183.chunk.js.map",
+    "index.html": "/chartjs-react/build/index.html",
+    "precache-manifest.1b3b48b8e17f71f439fce644c513e64a.js": "/chartjs-react/build/precache-manifest.1b3b48b8e17f71f439fce644c513e64a.js",
+    "service-worker.js": "/chartjs-react/build/service-worker.js",
+    "static/css/main.3aaf1634.chunk.css.map": "/chartjs-react/build/static/css/main.3aaf1634.chunk.css.map",
+    "static/js/2.78b38183.chunk.js.LICENSE.txt": "/chartjs-react/build/static/js/2.78b38183.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28eea1fe.js",
+    "static/js/2.78b38183.chunk.js",
+    "static/css/main.3aaf1634.chunk.css",
+    "static/js/main.c3caccb9.chunk.js"
+  ]
+}
