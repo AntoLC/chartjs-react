@@ -20,11 +20,3 @@
 .App-link {
   color: #09d3ac;
 }
-
-.container-chart{
-  width:400px;
-  margin:auto;
-}
-.container-chart canvas{
-  margin: 15px;
-}

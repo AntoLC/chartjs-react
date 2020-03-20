@@ -1,0 +1,7 @@
+.container-chart{
+    width:400px;
+    margin:auto;
+}
+.container-chart canvas{
+    margin: 15px;
+}
