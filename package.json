@@ -14,7 +14,7 @@
   "dependencies": {
     "@material-ui/core": "^4.9.5",
     "@material-ui/icons": "^4.9.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "d3": "^5.15.0",
     "gh-pages": "2.2.0",
     "node-sass": "^4.12.0",
